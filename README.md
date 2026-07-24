@@ -54,9 +54,13 @@ This dashboard is designed to answer the following business questions:
 ## 📈 Key Insights
 
 📈 Trend: Loan applications peaked in 2021 with 2,551 applications before gradually declining.
+
 🌍 Regional Performance: North recorded the highest number of loan applications (2,046).
+
 🚗 Customer Preference: Used Car Loan is the most popular financing product with 3,376 applications.
+
 📋 Approval Status: Pending has the highest number of applications (3,372), indicating an opportunity to improve processing efficiency.
+
 💡 Recommendation: Strengthen marketing efforts for Used Car Loan while reducing the backlog of Pending applications.
 
 
